@@ -25,7 +25,7 @@
 
 ### 📫 Reach Me At
 - 📧 Email: [contact@ankitmishra.pro](mailto:contact@ankitmishra.pro)  
-- 🔗 LinkedIn: [linkedin.com/in/dev-ankit-mishra](https://www.linkedin.com/in/dev-ankit-mishra)  
+- 🔗 LinkedIn: [linkedin.com/in/dev-ankit-mishra](https://www.linkedin.com/in/mankit264)  
 - 🌍 Portfolio: [ankitmishra.pro](https://ankitmishra.pro)  
 - 📍 Based in Varanasi, India | **Open to Relocate**
 
