@@ -12,13 +12,13 @@
 ---
 
 ### 🌱 Currently Learning
-- **Next.js**, **CI/CD**, and performance optimization  
-- Exploring **system design** and frontend testing with **Jest**, **React Testing Library**, and **Vitest**
+- **Springboot**, **AWS**, and performance optimization  
+- Exploring **system design** and **cloud services**
 
 ---
 
 ### 💬 Ask Me About
-- React, Tailwind CSS, JavaScript, Node.js, TypeScript, Supabase  
+- React, Tailwind CSS, JavaScript, Node.js, Springboot, Java
 - Building real-time apps using Socket.Io and full-stack project architecture
 
 ---
@@ -34,10 +34,10 @@
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-`React.js` `Next.js` `Tailwind CSS` `Framer Motion`
+`React.js` `Next.js` `Tailwind CSS` 
 
 **Backend & APIs:**  
-`Node.js` `Express` `REST APIs` `WebSocket`
+`Node.js` `Express` `REST APIs` `Springboot`
 
 **Authentication & Realtime:**  
 `Supabase` `Firebase`
@@ -46,10 +46,10 @@
 `MySQL` `MongoDB` `PostgreSQL`
 
 **Testing & Dev Tools:**  
-`Jest` `React Testing Library` `Vitest` `GitHub Actions` `Vite` `Postman`
+`Jest` `JUnit` `Vitest` `GitHub Actions` `Vite` `Postman`
 
 **Languages:**  
-`JavaScript` `TypeScript` `Java` `C++` `SQL`
+`JavaScript` `TypeScript` `Java` `SQL`
 
 ---
 
