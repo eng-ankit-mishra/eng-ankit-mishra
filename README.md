@@ -10,9 +10,9 @@
 ## 🚀 Currently Working As
 
 **Software Engineer Intern @ Intraedge**
-- Designing scalable backend systems using **Spring Boot & PostgreSQL**\
-- Securing REST APIs with **Spring Security (RBAC + OWASP practices)**\
-- Implementing **Docker-based CI/CD pipelines with GitHub Actions**\
+- Designing scalable backend systems using **Spring Boot & PostgreSQL**
+- Securing REST APIs with **Spring Security (RBAC + OWASP practices)**
+- Implementing **Docker-based CI/CD pipelines with GitHub Actions**
 - Working in Agile environments with Jira
 
 ------------------------------------------------------------------------
@@ -111,10 +111,10 @@ Built using: `React` `Node.js` `Socket.IO` `MongoDB` `Supabase`
 
 ### 🔹 Inventory Management System (Intraedge)
 
-Enterprise-grade backend system built with:\
+Enterprise-grade backend system built with:
 `Spring Boot` `Spring Security (RBAC)` `PostgreSQL` `Docker`
 
--   Secured 15+ REST APIs\
+-   Secured 15+ REST APIs
 -   Reduced deployment time by 50% with CI/CD
 
 ------------------------------------------------------------------------
