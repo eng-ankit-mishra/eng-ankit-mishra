@@ -1,59 +1,127 @@
 # Hi there 👋, I'm Ankit Mishra
 
-### 👨‍💻 Software Engineer | Full-Stack Developer 
-🎯  Building scalable, real-time web apps with great UI/UX.
+### 👨‍💻 Software Engineer \| Java Full-Stack Developer
 
----
+🎯 Building scalable, secure, production-grade applications using **Java
+(Spring Boot)** and **React**.
 
-### 🚀 Currently Working On
-- 💻 Real-time collaborative code editor — `CoDevSpace`
-- 🌐 Portfolio site — [`ankitmishra.pro`](https://ankitmishra.pro)
+------------------------------------------------------------------------
 
----
+## 🚀 Currently Working As
 
-### 🌱 Currently Learning
-- **Springboot**, **AWS**, and performance optimization  
-- Exploring **system design** and **cloud services**
+**Software Engineer Intern @ Intraedge**\
+- Designing scalable backend systems using **Spring Boot & PostgreSQL**\
+- Securing REST APIs with **Spring Security (RBAC + OWASP practices)**\
+- Implementing **Docker-based CI/CD pipelines with GitHub Actions**\
+- Working in Agile environments with Jira
 
----
+------------------------------------------------------------------------
 
-### 💬 Ask Me About
-- React, Tailwind CSS, JavaScript, Node.js, Springboot, Java
-- Building real-time apps using Socket.Io and full-stack project architecture
+## 🌱 Currently Learning
 
----
+-   Advanced **System Design**
+-   **AWS Architecture (EC2, S3)**
+-   Backend performance optimization & scalability patterns
 
-### 📫 Reach Me At
-- 📧 Email: [contact@ankitmishra.pro](mailto:contact@ankitmishra.pro)  
-- 🔗 LinkedIn: [linkedin.com/in/dev-ankit-mishra](https://www.linkedin.com/in/mankit264)  
-- 🌍 Portfolio: [ankitmishra.pro](https://ankitmishra.pro)  
-- 📍 Based in Varanasi, India | **Open to Relocate**
+------------------------------------------------------------------------
 
----
+## 💬 Ask Me About
 
-### 🛠️ Tech Stack
+-   Java (OOP, Collections, Multithreading)\
+-   Spring Boot, Spring Security, JPA (Hibernate)\
+-   REST API Design & Security\
+-   React & Full-Stack Architecture\
+-   Docker & CI/CD pipelines
 
-**Frontend:**  
-`React.js` `Next.js` `Tailwind CSS` 
+------------------------------------------------------------------------
 
-**Backend & APIs:**  
-`Node.js` `Express` `REST APIs` `Springboot`
+## 📫 Reach Me At
 
-**Authentication & Realtime:**  
-`Supabase` `Firebase`
+-   📧 Email: developer.ankitmishra@gmail.com\
+-   🔗 LinkedIn: https://www.linkedin.com/in/mankit264\
+-   🌍 Portfolio: https://ankitmishra.pro\
+-   📍 Varanasi, India \| Open to Relocate
 
-**Database:**  
-`MySQL` `MongoDB` `PostgreSQL`
+------------------------------------------------------------------------
 
-**Testing & Dev Tools:**  
-`Jest` `JUnit` `Vitest` `GitHub Actions` `Vite` `Postman`
+## 🛠️ Tech Stack
 
-**Languages:**  
-`JavaScript` `TypeScript` `Java` `SQL`
+### 👨‍💻 Languages
 
----
+`Java (OOP, Collections, Multithreading)`\
+`JavaScript (ES6+)`\
+`SQL`\
+`HTML` `CSS`
 
-### 📊 GitHub Stats  
+------------------------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ankit-mishra&layout=compact&theme=tokyonight)](https://github.com/eng-ankit-mishra)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=eng-ankit-mishra&theme=tokyonight)](https://git.io/streak-stats)
+### ⚙️ Backend & Frameworks
+
+`Spring Boot 3`\
+`Spring Security`\
+`Spring Data JPA (Hibernate)`\
+`Node.js`\
+`Express.js`
+
+------------------------------------------------------------------------
+
+### 🎨 Frontend
+
+`React`\
+`Tailwind CSS`\
+`Vite`
+
+------------------------------------------------------------------------
+
+### 🗄️ Databases
+
+`PostgreSQL`\
+`MongoDB`\
+`Supabase`
+
+------------------------------------------------------------------------
+
+### ☁️ Cloud & DevOps
+
+`AWS (EC2, S3)`\
+`Docker`\
+`GitHub Actions (CI/CD)`
+
+------------------------------------------------------------------------
+
+### 🧪 Tools & Testing
+
+`Git` `GitHub`\
+`Postman`\
+`Jira`\
+`Linux`\
+`JUnit`
+
+------------------------------------------------------------------------
+
+## 💼 Featured Projects
+
+### 🔹 CoDevSpace
+
+Real-time collaborative IDE supporting 8+ languages with secure
+sandboxed execution.\
+Built using: `React` `Node.js` `Socket.IO` `MongoDB` `Supabase`
+
+------------------------------------------------------------------------
+
+### 🔹 Inventory Management System (Intraedge)
+
+Enterprise-grade backend system built with:\
+`Spring Boot` `Spring Security (RBAC)` `PostgreSQL` `Docker`
+
+-   Secured 15+ REST APIs\
+-   Reduced deployment time by 50% with CI/CD
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ankit-mishra&layout=compact&theme=tokyonight)](https://github.com/eng-ankit-mishra)\
+[![GitHub
+Streak](https://streak-stats.demolab.com?user=eng-ankit-mishra&theme=tokyonight)](https://git.io/streak-stats)
