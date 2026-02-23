@@ -38,7 +38,7 @@
 ## 📫 Reach Me At
 
 -   📧 Email: developer.ankitmishra@gmail.com
--   🔗 LinkedIn: https://www.linkedin.com/in/mankit264
+-   🔗 LinkedIn: https://www.linkedin.com/in/amishra264
 -   🌍 Portfolio: https://ankitmishra.pro
 -   📍 Varanasi, India \| Open to Relocate
 
@@ -121,7 +121,5 @@ Enterprise-grade backend system built with:
 
 ## 📊 GitHub Stats
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-ankit-mishra&layout=compact&theme=tokyonight)](https://github.com/eng-ankit-mishra)\
 [![GitHub
 Streak](https://streak-stats.demolab.com?user=eng-ankit-mishra&theme=tokyonight)](https://git.io/streak-stats)
