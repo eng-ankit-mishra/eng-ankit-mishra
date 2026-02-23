@@ -9,7 +9,7 @@
 
 ## 🚀 Currently Working As
 
-**Software Engineer Intern @ Intraedge**\
+**Software Engineer Intern @ Intraedge**
 - Designing scalable backend systems using **Spring Boot & PostgreSQL**\
 - Securing REST APIs with **Spring Security (RBAC + OWASP practices)**\
 - Implementing **Docker-based CI/CD pipelines with GitHub Actions**\
@@ -27,19 +27,19 @@
 
 ## 💬 Ask Me About
 
--   Java (OOP, Collections, Multithreading)\
--   Spring Boot, Spring Security, JPA (Hibernate)\
--   REST API Design & Security\
--   React & Full-Stack Architecture\
+-   Java (OOP, Collections, Multithreading)
+-   Spring Boot, Spring Security, JPA (Hibernate)
+-   REST API Design & Security
+-   React & Full-Stack Architecture
 -   Docker & CI/CD pipelines
 
 ------------------------------------------------------------------------
 
 ## 📫 Reach Me At
 
--   📧 Email: developer.ankitmishra@gmail.com\
--   🔗 LinkedIn: https://www.linkedin.com/in/mankit264\
--   🌍 Portfolio: https://ankitmishra.pro\
+-   📧 Email: developer.ankitmishra@gmail.com
+-   🔗 LinkedIn: https://www.linkedin.com/in/mankit264
+-   🌍 Portfolio: https://ankitmishra.pro
 -   📍 Varanasi, India \| Open to Relocate
 
 ------------------------------------------------------------------------
